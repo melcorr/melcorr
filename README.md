@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm Melanie Corr</h1>
+<h3 align="center">Community Manager @ Red Hat</h3>
+
+- 🔭 I help out in the [Foreman](https://theforeman.org/) and [Pulp](https://pulpproject.org/) communities.
+
+- 📫 How to reach me **mcorr@redhat.com**
+
+<p align="center">
+<a href="https://linkedin.com/in/melanie-corr-43a3b442" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="melanie-corr-43a3b442" height="20" width="20" /></a>
+</p>
