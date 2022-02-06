@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I help out in the [Foreman](https://theforeman.org/) and [Pulp](https://pulpproject.org/) communities.
 
-- 📫 How to reach me **[@mcorr:matrix.org](https://matrix.to/#/@mcorr:matrix.org)*
+- 📫 How to reach me **[@mcorr:matrix.org](https://matrix.to/#/@mcorr:matrix.org)**
 
 <p align="center">
 <a href="https://linkedin.com/in/melanie-corr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="melanie-corr-43a3b442" height="20" width="20" /></a>
