@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Melanie</h1>
 <h3 align="center">Community Manager @ Red Hat</h3>
 
-- 🔭 I help out in the [Foreman](https://theforeman.org/) and [Pulp](https://pulpproject.org/) communities.
+- 🔭 I help out in the [Foreman](https://theforeman.org/) community.
 
 - 📫 How to reach me **[@mcorr:matrix.org](https://matrix.to/#/@mcorr:matrix.org)**
 
